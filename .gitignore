@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#Included BySelf - Incluido por mim :
+DataContent/
+
 # User-specific files
 *.rsuser
 *.suo
